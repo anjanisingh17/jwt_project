@@ -1,0 +1,19 @@
+{
+  "name": "jwt_project",
+  "version": "1.0.0",
+  "description": "This project is related to the api authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anjani Singh",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.10.0",
+    "validator": "^13.9.0"
+  }
+}
